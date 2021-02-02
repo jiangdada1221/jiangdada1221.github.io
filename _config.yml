@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuepeng Jiang"
   avatar           : "touxiang.jpg"
-  bio              : ""
+  bio              : 
   location         : "深圳"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : jiangdada12344321@gmail.com
+  email            : "jiangdada12344321@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"yuepeng jiang"
+  linkedin         : "yuepeng jiang/"
   orcid            :
   pinterest        :
   soundcloud       :
