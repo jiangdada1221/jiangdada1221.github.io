@@ -17,6 +17,6 @@ Welcome to my personal website! I'm Yuepeng, from Shenzhen, China. I possess a m
 - 博士(PhD)，香港城市大学(CityU), 2021-2025, 计算机科学(CS)
 - 硕士(Master), 加州大学圣地亚哥分校（UCSD），2019-2021， 电子电气工程（ECE）<br />
 - 本科(Bachelor), 浙江大学(Zhejiang University), 2015-2019, 物理学（Physics)<br />  
-- 高中(High School), 深圳市实验中学高中部， 2012-2015， 理科 <br />
+- 高中(High School), 深圳市实验学校高中部， 2012-2015， 理科 <br />
 - 初中(Middle School), 深圳市育才三中， 2009-2012 <br />
 - 小学(Primary School)， 深圳市西丽小学(现大学城实验小学)<br />  
