@@ -1,13 +1,1 @@
 # main links links
-main:
-  - title: "个人自述"
-    url: /talks/
-
-  - title: "我的生活"
-    url: /portfolio/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "简历(CV)"
-    url: /cv/
