@@ -19,7 +19,8 @@ I'm a PhD student (since 2021 fall) in City University Of Hong Kong, with the re
 - 高中(High School), 深圳市实验学校高中部， 2012-2015， 理科 <br /><br />
 
 
-Publications (including published/pre-print/in-submission)
+Publications<br />
+ <font size="1">(including published/pre-print/in-submission)</font> 
 ======
 MSIGrad: Mitigating Scale Imbalance in Multi-Task Learning (In submission to AAAI 2022)<br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Yu Zhang, Sheng Wang <br /> <br />
