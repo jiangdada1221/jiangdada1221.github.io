@@ -16,8 +16,9 @@ I'm a PhD student (since 2021 fall) in City University Of Hong Kong, with the re
 - 博士(PhD)，香港城市大学(CityU), 2021-2025, 计算机科学(CS)
 - 硕士(Master), 加州大学圣地亚哥分校（UCSD），2019-2021， 电子电气工程（ECE）<br />
 - 本科(Bachelor), 浙江大学(Zhejiang University), 2015-2019, 物理学（Physics)<br />  
-- 高中(High School), 深圳市实验学校高中部， 2012-2015， 理科 <br />
-<br />
+- 高中(High School), 深圳市实验学校高中部， 2012-2015， 理科 <br /><br />
+
+
 Publications (including published/pre-print/in-submission)
 ======
 MSIGrad: Mitigating Scale Imbalance in Multi-Task Learning (In submission to AAAI 2022)<br />
