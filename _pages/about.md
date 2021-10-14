@@ -22,10 +22,6 @@ I'm a PhD student (since 2021 fall) in City University Of Hong Kong, with the re
 
 Publications<br />(including published/pre-print/in-submission)
 ======
-MSIGrad: Mitigating Scale Imbalance in Multi-Task Learning (In submission to AAAI 2022)<br />
-__Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Yu Zhang, Sheng Wang <br /> <br />
-ADVAE-Flow: Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (In submission to AAAI 2022)<br />
-Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__, Yu Zhang <br /> <br />
 BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021, top conference in Computer Vision) <br />
 Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <br /> <br />
 DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021, top conference in Bioinformatics) <br />
