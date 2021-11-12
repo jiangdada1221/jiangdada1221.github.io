@@ -25,4 +25,14 @@ Publications<br />(including published/pre-print/in-submission)
 BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021) <br />
 Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <br /> <br />
 DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021) <br />
-__Yuepeng Jiang__, Stefano Rensi, Sheng Wang, Russ B Altman
+__Yuepeng Jiang__, Stefano Rensi, Sheng Wang, Russ B Altman <br /> <br />
+
+Thank You List <br />
+I would like to appreciate the following friends for helping me become what I wish to be. <br />
+Jiyang Li, my childhood friend. <br />
+Jinjie Zeng, my middle school classmate, always support me with no condition <br />
+Zao Yin, my high school classmate, without too much talks, I know you're a really good friend to me <br />
+Chongxin Run, my classmate in Zhejiang University, physics department, I wish I could have known you earlier. <br />
+Lingfeng Wei and Jiangeng Dong, two 大佬 from Chu Kochen Honors College, Zhejiang University, we live together for 1.5 years. #1116-CA92122-LaScala, the memory will last forever to me. <br />
+Yunhao Gou and Bowen Zhang, two colleages when I'm in Sustech, Shenzhen. Though the time we spent together is less than 2 months, maybe I have more conversations with them than most other people appearing in my life. <br />
+Also thanks to everyone in the immune group, CityU. I think you're all nice people. <br />
