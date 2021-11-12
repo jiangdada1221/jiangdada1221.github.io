@@ -27,7 +27,7 @@ Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <
 DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021) <br />
 __Yuepeng Jiang__, Stefano Rensi, Sheng Wang, Russ B Altman <br /> <br />
 
-Thank You List <br />
+__Thank You__ List <br />
 I would like to appreciate the following friends for helping me become what I wish to be. <br />
 Jiyang Li, my childhood friend. <br />
 Jinjie Zeng, my middle school classmate, always support me with no condition <br />
