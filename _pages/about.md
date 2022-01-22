@@ -38,5 +38,5 @@ Jinjie Zeng, my middle school classmate, always support me with no condition <br
 Zao Yin, my high school classmate, without too much talks, I know you're a really good friend to me <br />
 Chongxin Run, my classmate in Zhejiang University, physics department, I wish I could have known you earlier. <br />
 Lingfeng Wei and Jiangeng Dong, two 大佬 from Chu Kochen Honors College, Zhejiang University, we live together for 1.5 years. #1116-CA92122-LaScala, the memory will last forever to me. <br />
+Haoming Zhang, Yuting Jiang, and Jiajun Du, my schoolmates at UCSD, help me go through the tough time when I first came to USA. I really appreciate that. <br />
 Yunhao Gou and Bowen Zhang, two colleages when I'm in Sustech, Shenzhen. Though the time we spent together is less than 2 months, maybe I have more conversations with them than most other people appearing in my life. <br />
-Also thanks to everyone in the immune group, CityU. I think you're all nice people. <br />
