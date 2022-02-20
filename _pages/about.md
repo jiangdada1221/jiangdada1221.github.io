@@ -24,7 +24,7 @@ Publications<br />(including published/pre-print/in-submission)
 ======
 PMGrad: Improving Multi-Task Optimization from Two Complementary Aspects (Submitted to IJCAI-22, under the phase 2nd reviewing process, will be posted in Arxiv) <br />
 __Yuepeng Jiang__, Wenbo Zhang, Yunhao Gou, Yu Zhang <br /> <br />
-Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Submitted to IJCAI-22, under the phase 2nd reviewing process, will be posted in Arxiv) <br />
+Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Submitted to IJCAI-22, under the phase 2nd reviewing process) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br />
 BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021) <br />
 Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <br /> <br />
