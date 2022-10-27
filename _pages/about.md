@@ -28,6 +28,12 @@ Publications<br />(including published/pre-print/in-submission)
 __Yuepeng Jiang__, Wenbo Zhang, Yunhao Gou, Yu Zhang <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Submitted to IJCAI-22, under the phase 2nd reviewing process) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br /> -->
+TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Preprint) <br />
+__Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
+Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (Preprint)<br />
+__Yuepeng Jiang__, Shuai Cheng Li <br /> <br />
+Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (PRCV 2022) <br />
+Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__, Yu Zhang <br /> <br />
 BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021) <br />
 Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <br /> <br />
 DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021) <br />
