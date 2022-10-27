@@ -16,9 +16,9 @@ I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻�
 
 Academic background
 ======
-- PhD candidate，City University of Hong Kong, 2021-2025, Computer Science <br />
-- Master, University of California, San Diego，2019-2021， Electrical and Computer Engineering <br />
-- Bachelor, Zhejiang University, 2015-2019, Physics<br />  
+- PhD candidate，City University of Hong Kong (CityU), 2021-2025, Computer Science <br />
+- Master, University of California, San Diego (UCSD)，2019-2021， Electrical and Computer Engineering <br />
+- Bachelor, Zhejiang University (ZJU), 2015-2019, Physics<br />  
 <!-- - 高中(High School), 深圳市实验学校高中部， 2012-2015， 理科 <br /><br /> -->
 
 
