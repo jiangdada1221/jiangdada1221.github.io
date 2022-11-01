@@ -9,9 +9,9 @@ redirect_from:
 ---
 <!-- 我出生在江西丰城（1997），成长在深圳市，南山区，在深圳完成了义务教育。喜欢古典乐和流行乐，从小学习小提琴，师从于国家一级演奏员吴经齐先生，并在2014-2015年间有幸得到姜凌老师指导，在13岁时获得了小提琴的十级证书，曾获深圳弘文时声杯杯小提琴一等奖（2010，少年组），浙江省小提琴比赛青年组三等奖（2015，专业比赛），同时我也很喜欢听周杰伦，许嵩，邓紫棋的歌。从小便开始玩《梦幻西游》（2006），一入梦幻已十六年，至今仍无比喜欢着这款童年游戏([我的梦幻图鉴](https://jiangdada1221.github.io/files/menghuan.pdf))。 我于2019年和2021年获得了理学学士（浙江大学）和理学硕士（UCSD）， 从2021年秋博士入学香港城市大学（计算机科学), 目前研究方向为机器学习，计算生物。
 <br /> <br /> -->
-I'm now a PhD candidate (since 2021 fall) in City University of Hong Kong, with the research interests in machine learning and computational biology. I obtained the BS degree from Zhejiang University majoring in Physics and MS degree from University of California, San Diego (UCSD) majoring in ECE in 2019 and 2021 respectively. <br /><br />
+I'm now a PhD candidate (since 2021 fall) in City University of Hong Kong, with the research interests in machine learning and computational biology. I obtained the BS degree from Zhejiang University majoring in Physics and MS degree from University of California, San Diego (UCSD) majoring in ECE in 2019 and 2021 respectively. <br />
 
-A little bit of myself: I grow up in Shenzhen, a wonderful city in China. Playing the violin and sports are used to be my daily routine before my undergraduate study and I have earned the Level 10 Certification of Violin at my early age. I don't know why many routines are given up when I graduated from high school. I once indulged in video games in university, which made me lost myself. Now I hope that I can keep study and obtain good academic achievements when I finish the PhD program. <br /><br />
+A little bit of myself: I grow up in Shenzhen, a wonderful city in China. Playing the violin and sports are used to be my daily routine before my undergraduate study and I have earned the Level 10 Certification of Violin at my early age. I don't know why many routines are given up when I graduated from high school. I once indulged in video games in university, which made me lost myself. Now I hope that I can keep study and obtain good academic achievements when I finish the PhD program. <br />
 
 [Resume)](https://jiangdada1221.github.io/files/CV_2021fall.pdf), updated in 2021-10 <br />
 I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). Welcome to my [BiliBili channel!](https://space.bilibili.com/484406122?spm_id_from=333.1007.0.0)  <br />
