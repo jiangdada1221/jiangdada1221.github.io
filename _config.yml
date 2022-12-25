@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+icons                    : "profile.png"
 locale                   : "en-US"
 title                    : "Yuepeng Jiang"
 title_separator          : "-"
@@ -83,7 +84,7 @@ author:
   name             : "Yuepeng Jiang"
   avatar           : "profile.png"
   bio              :
-  location         : "深圳/香港"
+  location         : "Shenzhen/Hong Kong"
   employer         :
   pubmed           :
   googlescholar    :
