@@ -11,7 +11,7 @@ redirect_from:
 <br /> <br /> -->
 I'm now a PhD candidate (since 2021 fall) in City University of Hong Kong, with the research interests in machine learning and computational biology. I obtained the BS degree from Zhejiang University majoring in Physics and MS degree from University of California, San Diego (UCSD) majoring in ECE in 2019 and 2021 respectively. <br />
 
-A little bit of myself: I grew up in Shenzhen, a wonderful city in China. Playing the violin and sports are used to be my daily routine before my undergraduate study and I have earned the Level 10 Certification of Violin at my early age. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). Welcome to my [BiliBili channel!](https://space.bilibili.com/484406122?spm_id_from=333.1007.0.0). I got married to [Pingping Zhang](https://ppingzhang.github.io) at Dec. 2022. She works on video compression. <br />
+A little bit of myself: I grew up in Shenzhen, a wonderful city in China. Playing the violin and sports are used to be my daily routine before my undergraduate study and I have earned the Level 10 Certification of Violin at my early age. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). Welcome to my [BiliBili channel!](https://space.bilibili.com/484406122?spm_id_from=333.1007.0.0). <br />
 
 [Resume)](https://jiangdada1221.github.io/files/CV_2021fall.pdf), updated in 2021-10 <br />
 
