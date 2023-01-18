@@ -28,7 +28,7 @@ Publications<br />(including published/pre-print/in-submission)
 ======
 __Yuepeng Jiang__, Wenbo Zhang, Yunhao Gou, Yu Zhang <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Submitted to IJCAI-22, under the phase 2nd reviewing process) <br />
-Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br /> -->
+Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br /> 
 TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Preprint) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
 Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (will be published in Briefing in Bioinformatics)<br />
