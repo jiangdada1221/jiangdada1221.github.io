@@ -26,13 +26,12 @@ Academic background
 
 Publications<br />(including published/pre-print/in-submission)
 ======
-<!-- PMGrad: Improving Multi-Task Optimization from Two Complementary Aspects (Submitted to IJCAI-22, under the phase 2nd reviewing process, will be posted in Arxiv) <br />
 __Yuepeng Jiang__, Wenbo Zhang, Yunhao Gou, Yu Zhang <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Submitted to IJCAI-22, under the phase 2nd reviewing process) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br /> -->
 TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Preprint) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
-Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (Preprint)<br />
+Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (will be published in Briefing in Bioinformatics)<br />
 __Yuepeng Jiang__, Shuai Cheng Li <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (PRCV 2022) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__, Yu Zhang <br /> <br />
