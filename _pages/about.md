@@ -31,7 +31,7 @@ Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (Sub
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__,  Yu Zhang <br /> <br />  -->
 TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Preprint) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
-Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (will be published in Briefing in Bioinformatics)<br />
+Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (will be published in Briefings in Bioinformatics)<br />
 __Yuepeng Jiang__, Shuai Cheng Li <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (PRCV 2022) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__, Yu Zhang <br /> <br />
