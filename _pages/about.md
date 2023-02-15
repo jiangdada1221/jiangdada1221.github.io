@@ -21,7 +21,7 @@ Academic background
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics<br />  
 
 
-Publications<br />(Chronologically)
+Publications(Chronologically) <br />
 ======
 TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Briefings in Bioinformatics 2023) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
