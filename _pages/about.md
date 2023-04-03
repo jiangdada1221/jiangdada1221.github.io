@@ -23,13 +23,15 @@ Academic background
 
 Publications(Chronologically) <br />
 ======
-TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Briefings in Bioinformatics 2023) <br />
+TCR2vec: a deep representation learning framework of T-cell receptor sequence and function (Biorxiv) ([code](https://github.com/jiangdada1221/TCR2vec)) <br />
+__Yuepeng Jiang__, Miaozhe Huo, Pingping Zhang, Yiping Zou, Shuai Cheng Li <br /> <br />
+TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Briefings in Bioinformatics 2023) ([code](https://github.com/jiangdada1221/TEINet)) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
-Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (Briefings in Bioinformatics 2023)<br />
+Deep autoregressive generative models capture the intrinsics embedded in T-cell receptor repertoires (Briefings in Bioinformatics 2023) ([code](https://github.com/jiangdada1221/TCRpeg))<br />
 __Yuepeng Jiang__, Shuai Cheng Li <br /> <br />
 Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification (PRCV 2022) <br />
 Wenbo Zhang, Yunhao Gou, __Yuepeng Jiang__, Yu Zhang <br /> <br />
-BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021) <br />
+BEV-Net: Assessing Social Distancing Compliance by Joint People Localization and Geometric Reasoning (ICCV 2021) ([code](https://github.com/daizhirui/BEVNet)) <br />
 Zhirui Dai, __Yuepeng Jiang__, Yi Li, Bo Liu, Antoni B. Chan, Nuno Vasconcelos <br /> <br />
-DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021) <br />
+DrugOrchestra: Jointly predicting drug response, targets, and side effects via deep multi-task learning (RECOMB 2021) ([code](https://github.com/jiangdada1221/DrugOrchestra)) <br />
 __Yuepeng Jiang__, Stefano Rensi, Sheng Wang, Russ B Altman <br /> <br />
