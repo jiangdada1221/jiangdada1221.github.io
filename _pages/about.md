@@ -23,7 +23,7 @@ Academic background
 
 Publications(Chronologically) <br />
 ======
-TCR2vec: a deep representation learning framework of T-cell receptor sequence and function (Biorxiv) ([code](https://github.com/jiangdada1221/TCR2vec)) <br />
+TCR2vec: a deep representation learning framework of T-cell receptor sequence and function (bioRxiv) ([code](https://github.com/jiangdada1221/TCR2vec)) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Pingping Zhang, Yiping Zou, Shuai Cheng Li <br /> <br />
 TEINet: a deep learning framework for prediction of TCR-epitope binding specificity (Briefings in Bioinformatics 2023) ([code](https://github.com/jiangdada1221/TEINet)) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Shuai Cheng Li <br /> <br />
