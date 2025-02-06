@@ -15,14 +15,12 @@ I am a final-year PhD student at the City University of Hong Kong, specializing 
 
 
 ### Academic background
-======
 - PhD candidate, City University of Hong Kong (CityUHK), 2021-2025, Computer Science <br />
 - Master, University of California, San Diego (UCSD), 2019-2021, Electrical and Computer Engineering <br />
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics<br />  
 
 
 ### Publications (preprints) <br />
-======
 Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning <br />
 Frontiers of Computer Science, 2025 (In press) <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> <br />
