@@ -17,16 +17,15 @@ I am a final-year PhD student at the City University of Hong Kong, specializing 
 ## Academic background
 - PhD candidate, City University of Hong Kong (CityUHK), 2021-2025, Computer Science <br />
 - Master, University of California, San Diego (UCSD), 2019-2021, Electrical and Computer Engineering <br />
-- Bachelor, Zhejiang University (ZJU), 2015-2019, Physics<br />  
+- Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
 
-
-## Publications (preprints) <br />
+## Publications (preprints) 
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
-Frontiers of Computer Science, 2025 (In press) <br /> <br />
-A comprehensive benchmarking for evaluating TCR embeddings in modeling TCR-epitope interactions <br />
+Frontiers of Computer Science, 2025 (In press) <br /> 
+__A comprehensive benchmarking for evaluating TCR embeddings in modeling TCR-epitope interactions__ <br />
+Xikang Feng, Miaozhe Huo, He Li, Yongze Yang, __Yuepeng Jiang__, Liang He, Shuai Cheng Li <br />
 Briefings in Bioinformatics, 2025 <br />
-Xikang Feng, Miaozhe Huo, He Li, Yongze Yang, __Yuepeng Jiang__, Liang He, Shuai Cheng Li <br /><br />
 Unlocking T-cell receptor–epitope insights with structural analysis <br />
 Nature Computational Science, 2025 (News & Views) <br />
 Miaozhe Huo, __Yuepeng Jiang__, Shuai Cheng Li <br /><br />
