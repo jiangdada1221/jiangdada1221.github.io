@@ -21,9 +21,9 @@ I am a final-year PhD student at the City University of Hong Kong, specializing 
 
 
 ## Publications (preprints) <br />
-Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning <br />
-Frontiers of Computer Science, 2025 (In press) <br />
-__Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> <br />
+__Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
+__Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
+Frontiers of Computer Science, 2025 (In press) <br /> <br />
 A comprehensive benchmarking for evaluating TCR embeddings in modeling TCR-epitope interactions <br />
 Briefings in Bioinformatics, 2025 <br />
 Xikang Feng, Miaozhe Huo, He Li, Yongze Yang, __Yuepeng Jiang__, Liang He, Shuai Cheng Li <br /><br />
