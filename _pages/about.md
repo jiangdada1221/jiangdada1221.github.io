@@ -20,6 +20,10 @@ I am a final-year PhD student at the City University of Hong Kong, specializing 
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
 
 ## Publications (preprints) 
+__Deep learning-based prediction of the selection factors for quantifying selection in immune receptor repertoires__ <br />
+__Yuepeng Jiang__, Pingping Zhang, Miaozhe Huo, Shuai Cheng Li <br />
+_Nature Machine Intelligence_, 2025 (accept in principle) <br />
+
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
 _Frontiers of Computer Science_, 2025 (In press) <br /> 
