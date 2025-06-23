@@ -34,9 +34,9 @@ _Briefings in Bioinformatics_, 2025 <br />
 
 __Unlocking T-cell receptor–epitope insights with structural analysis__ <br />
 Miaozhe Huo, __Yuepeng Jiang__, Shuai Cheng Li <br />
-_Nature Computational Science_, 2025 (News & Views) <br />
+_Nature Computational Science_, 2024 (News & Views) <br />
 
-__TCR2vec: a deep representation learning framework of T-cell receptor sequence and function__ (_bioRxiv_) <br />
+__TCR2vec: a deep representation learning framework of T-cell receptor sequence and function__ (_bioRxiv_, 2023) <br />
 __Yuepeng Jiang__, Miaozhe Huo, Pingping Zhang, Yiping Zou, Shuai Cheng Li <br /> 
 
 __TEINet: a deep learning framework for prediction of TCR-epitope binding specificity__  <br />
