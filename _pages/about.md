@@ -20,13 +20,13 @@ I will obtain my PhD degree from the City University of Hong Kong in the comming
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
 
 ## Publications (preprints) 
-__Deep learning-based prediction of the selection factors for quantifying selection in immune receptor repertoires__ <br />
-__Yuepeng Jiang__, Pingping Zhang, Miaozhe Huo, Shuai Cheng Li <br />
-_Nature Machine Intelligence_, 2025 (accept in principle) <br />
-
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
-_Frontiers of Computer Science_, 2025 (In press) <br /> 
+_Frontiers of Computer Science_,  2026 (in press) <br /> 
+
+__Deep learning-based prediction of the selection factors for quantifying selection in immune receptor repertoires__ <br />
+__Yuepeng Jiang__, Pingping Zhang, Miaozhe Huo, Shuai Cheng Li <br />
+_Nature Machine Intelligence_, 2025 <br />
 
 __A comprehensive benchmarking for evaluating TCR embeddings in modeling TCR-epitope interactions__ <br />
 Xikang Feng, Miaozhe Huo, He Li, Yongze Yang, __Yuepeng Jiang__, Liang He, Shuai Cheng Li <br />
