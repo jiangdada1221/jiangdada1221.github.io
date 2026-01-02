@@ -11,7 +11,7 @@ Hi, I'm Yuepeng Jiang. I have obtained my PhD degree from the City University of
 
 A little bit of myself: I grew up in Shenzhen, a vibrant city in China, and I currently live in both Shenzhen and Hong Kong. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). If you also play this game and are at level 129, feel free to hit me up!  <br />
 
-<!-- [Resume)](https://jiangdada1221.github.io/files/CV_2021fall.pdf), updated in 2021-10 <br /> -->
+[中文版主页请点击这里(Chinese version)](https://jiangdada1221.github.io/chinese)
 
 
 ## Academic background
