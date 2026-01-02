@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have obtained my PhD degree from the City University of Hong Kong, specializing in computer science. My research primarily focuses on the development of computational tools for T-cell immunity and cancer immunology. Previously, I earned a Bachelor of Science degree in Physics from Zhejiang University in 2019, followed by a Master of Science degree in Electrical and Computer Engineering from the University of California, San Diego (UCSD) in 2021. <br />
+Hi, I'm Yuepeng Jiang. I have obtained my PhD degree from the City University of Hong Kong, specializing in computer science. My research primarily focuses on the development of computational tools for T-cell immunity and cancer immunology. Previously, I earned a Bachelor of Science degree in Physics from Zhejiang University in 2019, followed by a Master of Science degree in Electrical and Computer Engineering from the University of California, San Diego (UCSD) in 2021. <br />
 
-<!-- A little bit of myself: I grew up in Shenzhen, a wonderful city in China. Playing the violin and sports are used to be my daily routine before my undergraduate study and I have earned the Level 10 Certification of Violin at my early age. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). Welcome to my [BiliBili channel!](https://space.bilibili.com/484406122?spm_id_from=333.1007.0.0). <br /> -->
+A little bit of myself: I grew up in Shenzhen, a wonderful city in China. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). If you also play this game and are at level 129, feel free to hit me up!  <br />
 
 <!-- [Resume)](https://jiangdada1221.github.io/files/CV_2021fall.pdf), updated in 2021-10 <br /> -->
 
