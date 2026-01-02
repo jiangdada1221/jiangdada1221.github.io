@@ -7,19 +7,16 @@ redirect_from:
   - /about_chinese/
   - /about_chinese.html
 ---
-你好, I'm Yuepeng Jiang. I have obtained my PhD degree from the City University of Hong Kong, specializing in computer science. My research primarily focuses on the development of computational tools for T-cell immunity and cancer immunology. Previously, I earned a Bachelor of Science degree in Physics from Zhejiang University in 2019, followed by a Master of Science degree in Electrical and Computer Engineering from the University of California, San Diego (UCSD) in 2021. <br />
+Hi, I'm Yuepeng Jiang. 我在香港城市大学获得了计算机科学博士学位。我的研究主要集中在开发用于T细胞免疫和癌症免疫学研究的计算工具。此前，我于2019年在浙江大学获得物理学学士学位，随后于2021年在加利福尼亚大学圣迭戈分校（UCSD）获得电子与计算机工程硕士学位。<br />
 
-A little bit of myself: I grew up in Shenzhen, a wonderful city in China. I'm a life-long lover of the video game “Fantasy Westward Journey” (梦幻西游). If you also play this game and are at level 129, feel free to hit me up!  <br />
+关于我自己的一点小介绍：我在中国充满活力的城市——深圳长大，目前生活在深圳和香港两地。我是《梦幻西游》的长期忠实玩家。如果你也玩这款游戏，并且等级是129级，不妨联系我一起玩!  <br />
 
-<!-- [Resume)](https://jiangdada1221.github.io/files/CV_2021fall.pdf), updated in 2021-10 <br /> -->
+## 学术背景
+- 博士, 香港城市大学（CityUHK）, 2021-2025, 计算机科学 <br />
+- 硕士, 加利福尼亚大学圣迭戈分校（UCSD）, 2019-2021, 电子与计算机工程 <br />
+- 本科, 浙江大学 (ZJU), 2015-2019, 物理学
 
-
-## Academic background
-- PhD, City University of Hong Kong (CityUHK), 2021-2025, Computer Science <br />
-- Master, University of California, San Diego (UCSD), 2019-2021, Electrical and Computer Engineering <br />
-- Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
-
-## Publications (preprints) 
+## 发表论文 (预印本) 
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
 _Frontiers of Computer Science_,  2026 (in press) <br /> 
