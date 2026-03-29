@@ -22,9 +22,9 @@ A little bit of myself: I grew up in Shenzhen, a vibrant city in China, and I cu
 ## Publications (preprints) 
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
-_Frontiers of Computer Science_,  2026 (in press) <br /> 
+_Frontiers of Computer Science_,  2026 <br /> 
 
-__Deep learning-based prediction of the selection factors for quantifying selection in immune receptor repertoires__ <br />
+__Deep learning-based prediction of the selection factors for quantifying selection in immune receptor repertoires__ [PDF](https://drive.google.com/file/d/1_gq_GOscQZK1PB4IS-KJ51Lr3sJtU-Ua/view?usp=sharing) <br />
 __Yuepeng Jiang__, Pingping Zhang, Miaozhe Huo, Shuai Cheng Li <br />
 _Nature Machine Intelligence_, 2025 <br />
 
