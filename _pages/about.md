@@ -19,7 +19,7 @@ A little bit of myself: I grew up in Shenzhen, a vibrant city in China, and I cu
 - Master, University of California, San Diego (UCSD), 2019-2021, Electrical and Computer Engineering <br />
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
 
-## Works (<sup>*</sup>: corresponding author) 
+## Research works (<sup>*</sup>: corresponding author) 
 __MetaTCR framework__ <br />
 Miaozhe Huo, __Yuepeng Jiang__, Yiping Zou, Mengyao Wang, Shuai Cheng Li <br />
 Under revision in _Nature Methods_; Congrats to Miaozhe! <br />
