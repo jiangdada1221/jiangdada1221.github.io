@@ -19,7 +19,15 @@ A little bit of myself: I grew up in Shenzhen, a vibrant city in China, and I cu
 - Master, University of California, San Diego (UCSD), 2019-2021, Electrical and Computer Engineering <br />
 - Bachelor, Zhejiang University (ZJU), 2015-2019, Physics
 
-## Publications (preprints) 
+## Works (<sup>*</sup>: corresponding author) 
+__MetaTCR framework__ <br />
+Miaozhe Huo, __Yuepeng Jiang__, Yiping Zou, Mengyao Wang, Shuai Cheng Li <br />
+Under revision in _Nature Methods_; Congrats to Miaozhe! <br />
+
+__ClareV: A Contrastive Learning Framework for Context-Aware V Gene Representations in TCR Repertoires__ <br />
+Miaozhe Huo, Yu Cheng, Tongfei Shen, Jingwan Wang, __Yuepeng Jiang<sup>*</sup>__ <br /> 
+_Frontiers in Immunology_,  in press, Thanks to Miaozhe! <br /> 
+
 __Mitigating Scale Imbalance and Conflicting Gradients in Deep Multi-Task Learning__ <br />
 __Yuepeng Jiang__, Yunhao Gou, Wenbo Zhang, Xuehao Wang, Yu Zhang, Qiang Yang <br /> 
 _Frontiers of Computer Science_,  2026 <br /> 
