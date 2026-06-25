@@ -22,7 +22,7 @@ A little bit of myself: I grew up in Shenzhen, a vibrant city in China, and I cu
 ## Research works (<sup>*</sup>: corresponding author) 
 __MetaTCR framework__ <br />
 Miaozhe Huo, __Yuepeng Jiang__, Yiping Zou, Mengyao Wang, Shuai Cheng Li <br />
-Under revision in _Nature Methods_; Congrats to Miaozhe! <br />
+Under revision in _Nature Methods_; Good luck to Miaozhe! <br />
 
 __ClareV: A Contrastive Learning Framework for Context-Aware V Gene Representations in TCR Repertoires__ <br />
 Miaozhe Huo, Yu Cheng, Tongfei Shen, Jingwan Wang, __Yuepeng Jiang<sup>*</sup>__ <br /> 
